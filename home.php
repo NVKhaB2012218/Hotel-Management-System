@@ -72,7 +72,7 @@ if($usermail == true){
         </div>
 
         <div class="welcomeline">
-          <h1 class="welcometag">Booking hotel online</h1>
+          <h1 class="welcometag">Welcom to COLOR HOTEL</h1>
         </div>
 
       <!-- bookbox -->
